@@ -10,3 +10,6 @@ Desktop.ini
 # Logs
 *.log
 npm-debug.log*
+
+# Archivos fuente del diseño (no se suben al repo)
+NUEVO DISEÑO/
